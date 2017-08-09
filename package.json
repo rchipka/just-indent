@@ -1,0 +1,36 @@
+{
+  "name": "just-indent",
+  "version": "0.0.1",
+  "description": "Simple indentation for languages like HTML, PHP, CSS, and JS",
+  "keywords": [
+    "linter",
+    "formatting",
+    "indent",
+    "indentation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rchipka/just-indent.git"
+  },
+  "author": {
+    "name": "rchipka",
+    "email": "chipka01@email.franklin.edu"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "~3.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "main": "index",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "readmeFilename": "Readme.md",
+  "bugs": {
+    "url": "https://github.com/rchipka/node-osmosis/just-indent"
+  }
+}
